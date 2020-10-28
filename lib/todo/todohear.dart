@@ -14,7 +14,7 @@ class todoheader extends StatelessWidget {
           child: TextFormField(
             controller: txttodocontroller,
             decoration: InputDecoration(
-              labelText: 'add todo test git ww',
+              labelText: 'add todo test git',
               hintText: 'add todo them nua di',
             ),
           ),
