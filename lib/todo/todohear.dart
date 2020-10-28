@@ -15,7 +15,7 @@ class todoheader extends StatelessWidget {
             controller: txttodocontroller,
             decoration: InputDecoration(
               labelText: 'add todo',
-              hintText: 'add todo',
+              hintText: 'add todo them nua di',
             ),
           ),
         ),
